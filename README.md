@@ -1,7 +1,8 @@
 ### Hi there, Welcome to my Profile! 👋
 
-It's a pleasure to meet you all. I'm always interest in talking to new people and add new ideas to contribute to projects of diferent natures and languages.
-Feel free to browse around!
+It's a pleasure to meet you all. I am a technology enthusiast, and really like to participate in everything, so feel free to call me anytime! 
+I'm always interest in talking to new people and add new ideas to contribute to projects of diferent natures and languages.
+Feel free to browse around as well!
 
 ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipeaffonsoboschetti/)
 
