@@ -6,6 +6,13 @@ Feel free to browse around as well!
 
 ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipeaffonsoboschetti/)
 
+💻 Technologies Front-End: HTML, Javascript
+💻 Technologies DataBase: MySQL & SQLServer
+
+
+
+🖥️ Areas of Knowleage: 
+
 
 ![Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fe0093&show_icons=true&theme=chartreuse-dark)
 
