@@ -3,7 +3,7 @@
 It's a pleasure to meet you all. I'm always interest in talking to new people and add new ideas to contribute to projects of diferent natures and languages.
 Feel free to browse around!
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipeaffonsoboschetti/)
+![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipeaffonsoboschetti/)
 
 
 ![Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fe0093&show_icons=true&theme=chartreuse-dark)
