@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, Welcome to my Profile! 👋
+
+It's a pleasure to meet you all. I'm always interest in talking to new people and add new ideas to contribute to projects of diferent natures and languages.
+Feel free to browse around!
+
+
+
+![Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fe0093&show_icons=true)
+
 
 <!--
 **fe0093/fe0093** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
