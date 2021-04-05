@@ -5,7 +5,7 @@ Feel free to browse around!
 
 
 
-![Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fe0093&show_icons=true)
+![Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fe0093&show_icons=true&theme=dark)
 
 
 <!--
