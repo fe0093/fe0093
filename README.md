@@ -12,7 +12,7 @@ Feel free to browse around as well!
 <br>
 🌱 Technologies Back-End: Java, Python
 <br>
-⚡ Fun fact: 
+⚡ Working on: Q&A Software Tester Jr I 
 <br>
 
 
