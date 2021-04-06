@@ -7,14 +7,18 @@ Feel free to browse around as well!
 ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipeaffonsoboschetti/)
 
 💻 Technologies Front-End: HTML, Javascript
-💻 Technologies DataBase: MySQL & SQLServer
-
-
-
-🖥️ Areas of Knowleage: 
+<br>
+🔭 Technologies DataBase: MySQL & SQLServer
+<br>
+🌱 Technologies Back-End: Java, Python
+<br>
+⚡ Fun fact: 
+<br>
 
 
 ![Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fe0093&show_icons=true&theme=chartreuse-dark)
+
+[![Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fe0093&layout=compact)](https://github.com/fe0093/github-readme-stats)
 
 
 <!--
