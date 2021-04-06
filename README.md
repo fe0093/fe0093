@@ -12,8 +12,9 @@ Feel free to browse around as well!
 <br>
 🔸 🌱 Technologies Back-End: Java, Python
 <br>
-🔸 ⚡ Working on: Q&A Software Tester Jr I 
+🔸 🎓 USJT college student
 <br>
+🔸 ⚡ Working on: Q&A Software Tester Jr I 
 
 <code><img height="20" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"></code>
 <code><img height="20" src="https://image.flaticon.com/icons/png/512/226/226777.png"></code>
