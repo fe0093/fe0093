@@ -15,6 +15,7 @@ Feel free to browse around as well!
 🔸 ⚡ Working on: Q&A Software Tester Jr I 
 <br>
 
+<code><img height="20" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"></code>
 
 ![Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fe0093&show_icons=true&theme=chartreuse-dark)
 
