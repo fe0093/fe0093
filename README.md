@@ -16,7 +16,7 @@ Feel free to browse around as well!
 <br>
 🔸 ⚡ Working on: Q&A Software Tester Jr I 
 
-![Programming](https://giphy.com/gifs/rock-coding-programming-MdA16VIoXKKxNE8Stk) 
+![Programming] <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/26tn33aiTi1jkl6H6" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6">via GIPHY</a></p>
 
 <code><img height="20" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"></code>
 <code><img height="20" src="https://image.flaticon.com/icons/png/512/226/226777.png"></code>
