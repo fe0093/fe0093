@@ -6,19 +6,19 @@ Feel free to browse around as well!
 
 ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipeaffonsoboschetti/)
 
-💻 Technologies Front-End: HTML, Javascript
+🔸 💻 Technologies Front-End: HTML, Javascript
 <br>
-🔭 Technologies DataBase: MySQL & SQLServer
+🔸 🔭 Technologies DataBase: MySQL & SQLServer
 <br>
-🌱 Technologies Back-End: Java, Python
+🔸 🌱 Technologies Back-End: Java, Python
 <br>
-⚡ Working on: Q&A Software Tester Jr I 
+🔸 ⚡ Working on: Q&A Software Tester Jr I 
 <br>
 
 
 ![Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fe0093&show_icons=true&theme=chartreuse-dark)
 
-[![Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fe0093&layout=compact)](https://github.com/fe0093/github-readme-stats)
+[![Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fe0093&layout=compact&bg_color=dark)](https://github.com/fe0093/github-readme-stats)
 
 
 <!--
