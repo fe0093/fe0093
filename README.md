@@ -18,7 +18,7 @@ Feel free to browse around as well!
 
 ![Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fe0093&show_icons=true&theme=chartreuse-dark)
 
-[![Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fe0093&layout=compact&bg_color=dark)](https://github.com/fe0093/github-readme-stats)
+[![Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fe0093&layout=compact&theme=chartreuse-dark)](https://github.com/fe0093/github-readme-stats)
 
 
 <!--
