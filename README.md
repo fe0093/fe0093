@@ -16,8 +16,6 @@ Feel free to browse around as well!
 <br>
 🔸 ⚡ Working on: Q&A Software Tester Jr I 
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">via GIPHY</a></p>
-
 ![Programming](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif) 
 
 <code><img height="20" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"></code>
