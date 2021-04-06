@@ -16,7 +16,7 @@ Feel free to browse around as well!
 <br>
 🔸 ⚡ Working on: Q&A Software Tester Jr I 
 
-![Programming](<iframe src="https://giphy.com/embed/MdA16VIoXKKxNE8Stk" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/rock-coding-programming-MdA16VIoXKKxNE8Stk">via GIPHY</a></p>)
+![Programming] <iframe src="https://giphy.com/embed/MdA16VIoXKKxNE8Stk" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/rock-coding-programming-MdA16VIoXKKxNE8Stk">via GIPHY</a></p>
 
 <code><img height="20" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"></code>
 <code><img height="20" src="https://image.flaticon.com/icons/png/512/226/226777.png"></code>
