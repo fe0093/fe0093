@@ -16,6 +16,11 @@ Feel free to browse around as well!
 <br>
 
 <code><img height="20" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"></code>
+<code><img height="20" src="https://image.flaticon.com/icons/png/512/226/226777.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Javascript-736400_960_720.png/480px-Javascript-736400_960_720.png"></code>
+<code><img height="20" src="https://cdn0.iconfinder.com/data/icons/HTML5/512/HTML_Logo.png"></code>
+<code><img height="20" src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-512.png"></code>
+<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/sql-4-190807.png"></code>
 
 ![Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fe0093&show_icons=true&theme=chartreuse-dark)
 
