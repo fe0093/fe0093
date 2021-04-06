@@ -4,7 +4,13 @@ It's a pleasure to meet you all. I am a technology enthusiast, and really like t
 I'm always interest in talking to new people and add new ideas to contribute to projects of diferent natures and languages.
 Feel free to browse around as well!
 
+<br> 
+
 ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipeaffonsoboschetti/)
+
+<br>
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="460" height="180" />
 
 🔸 💻 Technologies Front-End: HTML, Javascript
 <br>
@@ -16,7 +22,7 @@ Feel free to browse around as well!
 <br>
 🔸 ⚡ Working on: Q&A Software Tester Jr I 
 
-![Programming](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif) 
+<br>
 
 <code><img height="20" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"></code>
 <code><img height="20" src="https://image.flaticon.com/icons/png/512/226/226777.png"></code>
@@ -24,6 +30,8 @@ Feel free to browse around as well!
 <code><img height="20" src="https://cdn0.iconfinder.com/data/icons/HTML5/512/HTML_Logo.png"></code>
 <code><img height="20" src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-512.png"></code>
 <code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/sql-4-190807.png"></code>
+
+---
 
 ![Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fe0093&show_icons=true&theme=chartreuse-dark)
 
