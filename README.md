@@ -7,7 +7,7 @@ Feel free to browse around as well!
 <br> 
 
 ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipeaffonsoboschetti/)
-
+[![RocketSeat](https://img.shields.io/badge/-RocketSeat-blueviolet)](https://app.rocketseat.com.br/me/fe0093)
 <br>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="460" height="180" />
