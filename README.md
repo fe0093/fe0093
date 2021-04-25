@@ -10,7 +10,7 @@ Feel free to browse around as well!
 [![RocketSeat](https://img.shields.io/badge/-RocketSeat-blueviolet)](https://app.rocketseat.com.br/me/fe0093)
 <br>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="460" height="180" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="360" height="180" />
 <!-- 🔸 💻 Technologies Front-End: HTML, Javascript
 <br>
 🔸 🔭 Technologies DataBase: MySQL & SQLServer
