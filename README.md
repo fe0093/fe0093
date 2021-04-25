@@ -40,7 +40,7 @@ https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/postman-512.png -->
 These are some of the technologies and tools that I work with:
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/-Python-512?style=flat-square&logo=python)
+![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=python)
 <!--![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) -->
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
