@@ -31,7 +31,8 @@ Feel free to browse around as well!
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Javascript-736400_960_720.png/480px-Javascript-736400_960_720.png"></code>
 <code><img height="20" src="https://cdn0.iconfinder.com/data/icons/HTML5/512/HTML_Logo.png"></code>
 <code><img height="20" src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-512.png"></code>
-<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/sql-4-190807.png"></code> -->
+<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/sql-4-190807.png"></code> 
+https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/postman-512.png -->
 
 ---
 ## ⚡ Technologies
@@ -68,6 +69,7 @@ These are some of the technologies and tools that I work with:
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)-->
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/-postman-512?style=flat-square&logo=eclipse&logoColor=white)
 
 
 ---
