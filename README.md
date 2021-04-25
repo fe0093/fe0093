@@ -11,9 +11,6 @@ Feel free to browse around as well!
 <br>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="460" height="180" />
-<br>
-<br>
-<br>
 <!-- 🔸 💻 Technologies Front-End: HTML, Javascript
 <br>
 🔸 🔭 Technologies DataBase: MySQL & SQLServer
