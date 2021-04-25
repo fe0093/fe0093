@@ -51,8 +51,8 @@ These are some of the technologies and tools that I work with:
 ![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) -->
 ![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-<!--![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)-->
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<!--![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)-->
 <!--![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
