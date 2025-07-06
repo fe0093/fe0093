@@ -19,7 +19,7 @@ Feel free to browse around as well!
 <br> -->
 🔸 🎓 USJT college student
 <br>
-🔸 💻 Working on: Q&A Software Tester Jr I 
+🔸 💻 Working on: Q&A Software Analist 
 
 <br>
 
